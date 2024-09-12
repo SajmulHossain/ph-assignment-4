@@ -41,7 +41,6 @@ function checkDigitsInName(name) {
 
 function calculateFinalScore(obj) {
   if (typeof obj !== "object") {
-    console.log("Sajmul Hossain");
     return "Invalid Input";
   }
 
